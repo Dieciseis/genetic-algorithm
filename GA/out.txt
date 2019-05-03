@@ -1,4 +1,4 @@
-<generate ID="0" type="singleCross">
+<generate ID="singleCross0">
 <max>7.90911<\max>
 <X0>3.34532<\X0>
 <X1>8.17352<\X1>
@@ -101,7 +101,7 @@
 <X98>1.92452<\X98>
 <X99>6.91839<\X99>
 <\generate>
-<generate ID="1" type="singleCross">
+<generate ID="singleCross1">
 <max>7.87545<\max>
 <X0>1.87271<\X0>
 <X1>2.38408<\X1>
@@ -204,7 +204,7 @@
 <X98>8.0863<\X98>
 <X99>7.90911<\X99>
 <\generate>
-<generate ID="2" type="singleCross">
+<generate ID="singleCross2">
 <max>7.87545<\max>
 <X0>7.23972<\X0>
 <X1>4.49956<\X1>
@@ -307,7 +307,7 @@
 <X98>0.913696<\X98>
 <X99>7.87545<\X99>
 <\generate>
-<generate ID="3" type="singleCross">
+<generate ID="singleCross3">
 <max>7.87545<\max>
 <X0>0.314313<\X0>
 <X1>4.50044<\X1>
@@ -410,7 +410,7 @@
 <X98>6.11614<\X98>
 <X99>7.87545<\X99>
 <\generate>
-<generate ID="4" type="singleCross">
+<generate ID="singleCross4">
 <max>7.84089<\max>
 <X0>6.74896<\X0>
 <X1>8.04754<\X1>
@@ -513,7 +513,7 @@
 <X98>2.2862<\X98>
 <X99>7.87545<\X99>
 <\generate>
-<generate ID="5" type="singleCross">
+<generate ID="singleCross5">
 <max>7.84089<\max>
 <X0>1.09089<\X0>
 <X1>1.09089<\X1>
@@ -616,7 +616,7 @@
 <X98>7.90913<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="6" type="singleCross">
+<generate ID="singleCross6">
 <max>7.84089<\max>
 <X0>7.90932<\X0>
 <X1>7.90912<\X1>
@@ -719,7 +719,7 @@
 <X98>2.77953<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="7" type="singleCross">
+<generate ID="singleCross7">
 <max>7.84089<\max>
 <X0>2.56859<\X0>
 <X1>1.05722<\X1>
@@ -822,7 +822,7 @@
 <X98>7.90472<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="8" type="singleCross">
+<generate ID="singleCross8">
 <max>7.84089<\max>
 <X0>7.90472<\X0>
 <X1>6.26032<\X1>
@@ -925,7 +925,7 @@
 <X98>1.09067<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="9" type="singleCross">
+<generate ID="singleCross9">
 <max>7.84089<\max>
 <X0>1.02056<\X0>
 <X1>1.09067<\X1>
@@ -1028,7 +1028,7 @@
 <X98>6.21723<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="10" type="singleCross">
+<generate ID="singleCross10">
 <max>7.84089<\max>
 <X0>7.90914<\X0>
 <X1>6.21735<\X1>
@@ -1131,7 +1131,7 @@
 <X98>1.09067<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="11" type="singleCross">
+<generate ID="singleCross11">
 <max>7.84089<\max>
 <X0>1.09528<\X0>
 <X1>2.21589<\X1>
@@ -1234,7 +1234,7 @@
 <X98>7.90914<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="12" type="singleCross">
+<generate ID="singleCross12">
 <max>7.84089<\max>
 <X0>5.55365<\X0>
 <X1>8.04975<\X1>
@@ -1337,7 +1337,7 @@
 <X98>6.78027<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="13" type="singleCross">
+<generate ID="singleCross13">
 <max>7.84089<\max>
 <X0>5.52056<\X0>
 <X1>1.02057<\X1>
@@ -1440,7 +1440,7 @@
 <X98>5.55365<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="14" type="singleCross">
+<generate ID="singleCross14">
 <max>7.84089<\max>
 <X0>8.19037<\X0>
 <X1>3.47959<\X1>
@@ -1543,7 +1543,7 @@
 <X98>5.52057<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="15" type="singleCross">
+<generate ID="singleCross15">
 <max>7.84089<\max>
 <X0>8.68462<\X0>
 <X1>1.02166<\X1>
@@ -1646,7 +1646,7 @@
 <X98>3.69036<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="16" type="singleCross">
+<generate ID="singleCross16">
 <max>7.84089<\max>
 <X0>3.51458<\X0>
 <X1>7.97725<\X1>
@@ -1749,7 +1749,7 @@
 <X98>5.50092<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="17" type="singleCross">
+<generate ID="singleCross17">
 <max>7.84089<\max>
 <X0>5.52042<\X0>
 <X1>1.02273<\X1>
@@ -1852,7 +1852,7 @@
 <X98>8.8232<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="18" type="singleCross">
+<generate ID="singleCross18">
 <max>7.84089<\max>
 <X0>1.02291<\X0>
 <X1>7.9795<\X1>
@@ -1955,7 +1955,7 @@
 <X98>1.02059<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="19" type="singleCross">
+<generate ID="singleCross19">
 <max>7.84089<\max>
 <X0>1.0205<\X0>
 <X1>8.9638<\X1>
@@ -2058,7 +2058,7 @@
 <X98>0.0361975<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="20" type="singleCross">
+<generate ID="singleCross20">
 <max>7.84089<\max>
 <X0>7.97944<\X0>
 <X1>8.89557<\X1>
@@ -2161,7 +2161,7 @@
 <X98>1.03608<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="21" type="singleCross">
+<generate ID="singleCross21">
 <max>7.84089<\max>
 <X0>0.104426<\X0>
 <X1>1.02729<\X1>
@@ -2264,7 +2264,7 @@
 <X98>1.22723<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="22" type="singleCross">
+<generate ID="singleCross22">
 <max>7.84089<\max>
 <X0>7.41475<\X0>
 <X1>7.97271<\X1>
@@ -2367,7 +2367,7 @@
 <X98>0.192339<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="23" type="singleCross">
+<generate ID="singleCross23">
 <max>7.84089<\max>
 <X0>7.21025<\X0>
 <X1>7.77275<\X1>
@@ -2470,7 +2470,7 @@
 <X98>8.81633<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="24" type="singleCross">
+<generate ID="singleCross24">
 <max>7.84089<\max>
 <X0>0.458057<\X0>
 <X1>7.84089<\X1>
@@ -2573,7 +2573,7 @@
 <X98>0.0912568<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="25" type="singleCross">
+<generate ID="singleCross25">
 <max>7.84089<\max>
 <X0>0.0956524<\X0>
 <X1>7.77275<\X1>
@@ -2676,7 +2676,7 @@
 <X98>8.80751<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="26" type="singleCross">
+<generate ID="singleCross26">
 <max>7.84089<\max>
 <X0>1.22725<\X0>
 <X1>5.52275<\X1>
@@ -2779,7 +2779,7 @@
 <X98>4.70772<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="27" type="singleCross">
+<generate ID="singleCross27">
 <max>7.84089<\max>
 <X0>6.92886<\X0>
 <X1>7.77275<\X1>
@@ -2882,7 +2882,7 @@
 <X98>5.72395<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="28" type="singleCross">
+<generate ID="singleCross28">
 <max>7.84089<\max>
 <X0>0.102377<\X0>
 <X1>5.72519<\X1>
@@ -2985,7 +2985,7 @@
 <X98>8.8976<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="29" type="singleCross">
+<generate ID="singleCross29">
 <max>7.84089<\max>
 <X0>3.26396<\X0>
 <X1>6.84359<\X1>
@@ -3088,7 +3088,7 @@
 <X98>6.85318<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="30" type="singleCross">
+<generate ID="singleCross30">
 <max>7.84089<\max>
 <X0>0.0758818<\X0>
 <X1>4.60238<\X1>
@@ -3191,7 +3191,7 @@
 <X98>2.15036<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="31" type="singleCross">
+<generate ID="singleCross31">
 <max>7.84089<\max>
 <X0>2.14679<\X0>
 <X1>2.14686<\X1>
@@ -3294,7 +3294,7 @@
 <X98>6.00863<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="32" type="singleCross">
+<generate ID="singleCross32">
 <max>7.84089<\max>
 <X0>6.85294<\X0>
 <X1>2.15654<\X1>
@@ -3397,7 +3397,7 @@
 <X98>4.60196<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="33" type="singleCross">
+<generate ID="singleCross33">
 <max>7.84089<\max>
 <X0>6.85294<\X0>
 <X1>6.85294<\X1>
@@ -3500,7 +3500,7 @@
 <X98>2.99081<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="34" type="singleCross">
+<generate ID="singleCross34">
 <max>7.84089<\max>
 <X0>6.85294<\X0>
 <X1>7.94764<\X1>
@@ -3603,7 +3603,7 @@
 <X98>2.15959<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="35" type="singleCross">
+<generate ID="singleCross35">
 <max>7.84089<\max>
 <X0>1.05236<\X0>
 <X1>2.17736<\X1>
@@ -3706,7 +3706,7 @@
 <X98>7.91276<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="36" type="singleCross">
+<generate ID="singleCross36">
 <max>7.84089<\max>
 <X0>6.65106<\X0>
 <X1>2.15654<\X1>
@@ -3809,7 +3809,7 @@
 <X98>2.33136<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="37" type="singleCross">
+<generate ID="singleCross37">
 <max>7.84089<\max>
 <X0>6.84353<\X0>
 <X1>2.34895<\X1>
@@ -3912,7 +3912,7 @@
 <X98>6.65585<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="38" type="singleCross">
+<generate ID="singleCross38">
 <max>7.84089<\max>
 <X0>2.15647<\X0>
 <X1>7.52118<\X1>
@@ -4015,7 +4015,7 @@
 <X98>2.34901<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="39" type="singleCross">
+<generate ID="singleCross39">
 <max>7.84089<\max>
 <X0>1.21856<\X0>
 <X1>2.34346<\X1>
@@ -4118,7 +4118,7 @@
 <X98>4.39962<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="40" type="singleCross">
+<generate ID="singleCross40">
 <max>7.84089<\max>
 <X0>6.65644<\X0>
 <X1>2.15621<\X1>
@@ -4221,7 +4221,7 @@
 <X98>6.84408<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="41" type="singleCross">
+<generate ID="singleCross41">
 <max>7.84089<\max>
 <X0>1.03122<\X0>
 <X1>6.84408<\X1>
@@ -4324,7 +4324,7 @@
 <X98>6.64718<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="42" type="singleCross">
+<generate ID="singleCross42">
 <max>7.84089<\max>
 <X0>6.70316<\X0>
 <X1>6.64773<\X1>
@@ -4427,7 +4427,7 @@
 <X98>7.96878<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="43" type="singleCross">
+<generate ID="singleCross43">
 <max>7.84089<\max>
 <X0>6.64773<\X0>
 <X1>5.71853<\X1>
@@ -4530,7 +4530,7 @@
 <X98>3.47727<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="44" type="singleCross">
+<generate ID="singleCross44">
 <max>7.84089<\max>
 <X0>2.34356<\X0>
 <X1>2.9892<\X1>
@@ -4633,7 +4633,7 @@
 <X98>6.6735<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="45" type="singleCross">
+<generate ID="singleCross45">
 <max>7.84089<\max>
 <X0>2.29655<\X0>
 <X1>6.65074<\X1>
@@ -4736,7 +4736,7 @@
 <X98>2.34489<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="46" type="singleCross">
+<generate ID="singleCross46">
 <max>7.84089<\max>
 <X0>6.69987<\X0>
 <X1>6.70206<\X1>
@@ -4839,7 +4839,7 @@
 <X98>6.65072<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="47" type="singleCross">
+<generate ID="singleCross47">
 <max>7.84089<\max>
 <X0>6.65072<\X0>
 <X1>2.34928<\X1>
@@ -4942,7 +4942,7 @@
 <X98>6.65068<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="48" type="singleCross">
+<generate ID="singleCross48">
 <max>7.84089<\max>
 <X0>2.27895<\X0>
 <X1>3.27573<\X1>
@@ -5045,7 +5045,7 @@
 <X98>6.65074<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="49" type="singleCross">
+<generate ID="singleCross49">
 <max>7.84089<\max>
 <X0>6.58262<\X0>
 <X1>6.72105<\X1>
@@ -5148,7 +5148,7 @@
 <X98>6.77897<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="50" type="singleCross">
+<generate ID="singleCross50">
 <max>7.84089<\max>
 <X0>3.27536<\X0>
 <X1>2.27895<\X1>
@@ -5251,7 +5251,7 @@
 <X98>5.72464<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="51" type="singleCross">
+<generate ID="singleCross51">
 <max>7.84089<\max>
 <X0>6.64713<\X0>
 <X1>6.74381<\X1>
@@ -5354,7 +5354,7 @@
 <X98>6.72184<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="52" type="singleCross">
+<generate ID="singleCross52">
 <max>7.84089<\max>
 <X0>2.41957<\X0>
 <X1>2.41958<\X1>
@@ -5457,7 +5457,7 @@
 <X98>2.27887<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="53" type="singleCross">
+<generate ID="singleCross53">
 <max>7.84089<\max>
 <X0>6.57892<\X0>
 <X1>2.27817<\X1>
@@ -5560,7 +5560,7 @@
 <X98>2.35797<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="54" type="singleCross">
+<generate ID="singleCross54">
 <max>7.84089<\max>
 <X0>2.32731<\X0>
 <X1>2.25619<\X1>
@@ -5663,7 +5663,7 @@
 <X98>2.34408<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="55" type="singleCross">
+<generate ID="singleCross55">
 <max>7.84089<\max>
 <X0>6.64713<\X0>
 <X1>4.6029<\X1>
@@ -5766,7 +5766,7 @@
 <X98>6.61561<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="56" type="singleCross">
+<generate ID="singleCross56">
 <max>7.84089<\max>
 <X0>4.42712<\X0>
 <X1>4.39709<\X1>
@@ -5869,7 +5869,7 @@
 <X98>4.57727<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="57" type="singleCross">
+<generate ID="singleCross57">
 <max>7.84089<\max>
 <X0>2.80627<\X0>
 <X1>6.29027<\X1>
@@ -5972,7 +5972,7 @@
 <X98>2.7096<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="58" type="singleCross">
+<generate ID="singleCross58">
 <max>7.84089<\max>
 <X0>6.64715<\X0>
 <X1>4.39709<\X1>
@@ -6075,7 +6075,7 @@
 <X98>6.74744<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="59" type="singleCross">
+<generate ID="singleCross59">
 <max>7.84089<\max>
 <X0>2.32288<\X0>
 <X1>2.51623<\X1>
@@ -6178,7 +6178,7 @@
 <X98>4.58162<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="60" type="singleCross">
+<generate ID="singleCross60">
 <max>7.84089<\max>
 <X0>2.16834<\X0>
 <X1>3.27357<\X1>
@@ -6281,7 +6281,7 @@
 <X98>5.75938<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="61" type="singleCross">
+<generate ID="singleCross61">
 <max>7.84089<\max>
 <X0>5.7616<\X0>
 <X1>4.41852<\X1>
@@ -6384,7 +6384,7 @@
 <X98>4.6029<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="62" type="singleCross">
+<generate ID="singleCross62">
 <max>7.84089<\max>
 <X0>5.14425<\X0>
 <X1>5.14416<\X1>
@@ -6487,7 +6487,7 @@
 <X98>4.41688<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="63" type="singleCross">
+<generate ID="singleCross63">
 <max>7.84089<\max>
 <X0>6.72619<\X0>
 <X1>4.58313<\X1>
@@ -6590,7 +6590,7 @@
 <X98>2.33175<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="64" type="singleCross">
+<generate ID="singleCross64">
 <max>7.84089<\max>
 <X0>6.66687<\X0>
 <X1>6.6134<\X1>
@@ -6693,7 +6693,7 @@
 <X98>4.86285<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="65" type="singleCross">
+<generate ID="singleCross65">
 <max>7.84089<\max>
 <X0>3.88111<\X0>
 <X1>6.72619<\X1>
@@ -6796,7 +6796,7 @@
 <X98>6.61347<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="66" type="singleCross">
+<generate ID="singleCross66">
 <max>7.84089<\max>
 <X0>6.72619<\X0>
 <X1>1.39453<\X1>
@@ -6899,7 +6899,7 @@
 <X98>3.10657<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="67" type="singleCross">
+<generate ID="singleCross67">
 <max>7.84089<\max>
 <X0>2.27381<\X0>
 <X1>7.84089<\X1>
@@ -7002,7 +7002,7 @@
 <X98>1.39343<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="68" type="singleCross">
+<generate ID="singleCross68">
 <max>7.84168<\max>
 <X0>5.89489<\X0>
 <X1>1.15911<\X1>
@@ -7105,7 +7105,7 @@
 <X98>3.10511<\X98>
 <X99>7.84089<\X99>
 <\generate>
-<generate ID="69" type="singleCross">
+<generate ID="singleCross69">
 <max>7.84168<\max>
 <X0>2.3683<\X0>
 <X1>3.10658<\X1>
@@ -7208,7 +7208,7 @@
 <X98>5.6477<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="70" type="singleCross">
+<generate ID="singleCross70">
 <max>7.84168<\max>
 <X0>6.6317<\X0>
 <X1>3.09998<\X1>
@@ -7311,7 +7311,7 @@
 <X98>2.35651<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="71" type="singleCross">
+<generate ID="singleCross71">
 <max>7.84168<\max>
 <X0>7.70026<\X0>
 <X1>5.7433<\X1>
@@ -7414,7 +7414,7 @@
 <X98>5.85961<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="72" type="singleCross">
+<generate ID="singleCross72">
 <max>7.84168<\max>
 <X0>5.45026<\X0>
 <X1>6.17767<\X1>
@@ -7517,7 +7517,7 @@
 <X98>2.63931<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="73" type="singleCross">
+<generate ID="singleCross73">
 <max>7.84168<\max>
 <X0>3.20181<\X0>
 <X1>6.58636<\X1>
@@ -7620,7 +7620,7 @@
 <X98>5.79809<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="74" type="singleCross">
+<generate ID="singleCross74">
 <max>7.84168<\max>
 <X0>5.79826<\X0>
 <X1>3.92767<\X1>
@@ -7723,7 +7723,7 @@
 <X98>1.2858<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="75" type="singleCross">
+<generate ID="singleCross75">
 <max>7.84168<\max>
 <X0>5.35358<\X0>
 <X1>3.92767<\X1>
@@ -7826,7 +7826,7 @@
 <X98>6.30577<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="76" type="singleCross">
+<generate ID="singleCross76">
 <max>7.86551<\max>
 <X0>5.18075<\X0>
 <X1>5.78875<\X1>
@@ -7929,7 +7929,7 @@
 <X98>3.21124<\X98>
 <X99>7.84168<\X99>
 <\generate>
-<generate ID="77" type="singleCross">
+<generate ID="singleCross77">
 <max>7.86551<\max>
 <X0>6.17767<\X0>
 <X1>3.22269<\X1>
@@ -8032,7 +8032,7 @@
 <X98>3.49271<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="78" type="singleCross">
+<generate ID="singleCross78">
 <max>7.86551<\max>
 <X0>3.49261<\X0>
 <X1>5.78943<\X1>
@@ -8135,7 +8135,7 @@
 <X98>7.74576<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="79" type="singleCross">
+<generate ID="singleCross79">
 <max>7.86551<\max>
 <X0>4.77206<\X0>
 <X1>5.51574<\X1>
@@ -8238,7 +8238,7 @@
 <X98>3.49257<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="80" type="singleCross">
+<generate ID="singleCross80">
 <max>7.86551<\max>
 <X0>5.10145<\X0>
 <X1>3.53943<\X1>
@@ -8341,7 +8341,7 @@
 <X98>5.7893<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="81" type="singleCross">
+<generate ID="singleCross81">
 <max>7.86551<\max>
 <X0>3.49257<\X0>
 <X1>5.54257<\X1>
@@ -8444,7 +8444,7 @@
 <X98>5.64659<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="82" type="singleCross">
+<generate ID="singleCross82">
 <max>7.86551<\max>
 <X0>3.45744<\X0>
 <X1>5.65392<\X1>
@@ -8547,7 +8547,7 @@
 <X98>3.3365<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="83" type="singleCross">
+<generate ID="singleCross83">
 <max>7.86551<\max>
 <X0>3.33583<\X0>
 <X1>5.66417<\X1>
@@ -8650,7 +8650,7 @@
 <X98>1.13561<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="84" type="singleCross">
+<generate ID="singleCross84">
 <max>7.85123<\max>
 <X0>1.13633<\X0>
 <X1>3.36551<\X1>
@@ -8753,7 +8753,7 @@
 <X98>3.35562<\X98>
 <X99>7.86551<\X99>
 <\generate>
-<generate ID="85" type="singleCross">
+<generate ID="singleCross85">
 <max>7.85123<\max>
 <X0>7.84933<\X0>
 <X1>1.13449<\X1>
@@ -8856,7 +8856,7 @@
 <X98>1.13634<\X98>
 <X99>7.85123<\X99>
 <\generate>
-<generate ID="86" type="singleCross">
+<generate ID="singleCross86">
 <max>7.85372<\max>
 <X0>1.15042<\X0>
 <X1>3.34933<\X1>
@@ -8959,7 +8959,7 @@
 <X98>1.13453<\X98>
 <X99>7.85123<\X99>
 <\generate>
-<generate ID="87" type="singleCross">
+<generate ID="singleCross87">
 <max>7.85372<\max>
 <X0>7.86362<\X0>
 <X1>5.93191<\X1>
@@ -9062,7 +9062,7 @@
 <X98>5.77481<\X98>
 <X99>7.85372<\X99>
 <\generate>
-<generate ID="88" type="singleCross">
+<generate ID="singleCross88">
 <max>7.85372<\max>
 <X0>3.08237<\X0>
 <X1>1.13638<\X1>
@@ -9165,7 +9165,7 @@
 <X98>3.22299<\X98>
 <X99>7.85372<\X99>
 <\generate>
-<generate ID="89" type="singleCross">
+<generate ID="singleCross89">
 <max>7.85372<\max>
 <X0>7.86416<\X0>
 <X1>3.22299<\X1>
@@ -9268,7 +9268,7 @@
 <X98>7.86331<\X98>
 <X99>7.85372<\X99>
 <\generate>
-<generate ID="90" type="singleCross">
+<generate ID="singleCross90">
 <max>7.85372<\max>
 <X0>5.63474<\X0>
 <X1>5.63474<\X1>
@@ -9371,7 +9371,7 @@
 <X98>1.13449<\X98>
 <X99>7.85372<\X99>
 <\generate>
-<generate ID="91" type="singleCross">
+<generate ID="singleCross91">
 <max>7.85838<\max>
 <X0>3.36527<\X0>
 <X1>4.36996<\X1>
@@ -9474,7 +9474,7 @@
 <X98>5.63474<\X98>
 <X99>7.85372<\X99>
 <\generate>
-<generate ID="92" type="singleCross">
+<generate ID="singleCross92">
 <max>7.85648<\max>
 <X0>7.7952<\X0>
 <X1>3.36<\X1>
@@ -9577,7 +9577,7 @@
 <X98>3.36141<\X98>
 <X99>7.85838<\X99>
 <\generate>
-<generate ID="93" type="singleCross">
+<generate ID="singleCross93">
 <max>7.85648<\max>
 <X0>3.36769<\X0>
 <X1>1.2048<\X1>
@@ -9680,7 +9680,7 @@
 <X98>6.05798<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="94" type="singleCross">
+<generate ID="singleCross94">
 <max>7.85648<\max>
 <X0>5.63241<\X0>
 <X1>1.14242<\X1>
@@ -9783,7 +9783,7 @@
 <X98>5.98553<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="95" type="singleCross">
+<generate ID="singleCross95">
 <max>7.85648<\max>
 <X0>1.14243<\X0>
 <X1>1.17404<\X1>
@@ -9886,7 +9886,7 @@
 <X98>7.79518<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="96" type="singleCross">
+<generate ID="singleCross96">
 <max>7.85648<\max>
 <X0>7.44203<\X0>
 <X1>1.59314<\X1>
@@ -9989,7 +9989,7 @@
 <X98>1.21059<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="97" type="singleCross">
+<generate ID="singleCross97">
 <max>7.85648<\max>
 <X0>1.21059<\X0>
 <X1>2.02881<\X1>
@@ -10092,7 +10092,7 @@
 <X98>7.25249<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="98" type="singleCross">
+<generate ID="singleCross98">
 <max>7.85648<\max>
 <X0>1.69859<\X0>
 <X1>7.7982<\X1>
@@ -10195,7 +10195,7 @@
 <X98>6.52881<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="99" type="singleCross">
+<generate ID="singleCross99">
 <max>7.85648<\max>
 <X0>3.32601<\X0>
 <X1>1.21025<\X1>
@@ -10298,7 +10298,7 @@
 <X98>6.97127<\X98>
 <X99>7.85648<\X99>
 <\generate>
-<generate ID="0" type="avgCross">
+<generate ID="avgCross0">
 <max>7.87019<\max>
 <X0>7.03999<\X0>
 <X1>1.35995<\X1>
@@ -10401,7 +10401,7 @@
 <X98>8.63027<\X98>
 <X99>8.89735<\X99>
 <\generate>
-<generate ID="1" type="avgCross">
+<generate ID="avgCross1">
 <max>7.87019<\max>
 <X0>1.35818<\X0>
 <X1>2.69671<\X1>
@@ -10504,7 +10504,7 @@
 <X98>7.02187<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="2" type="avgCross">
+<generate ID="avgCross2">
 <max>7.87019<\max>
 <X0>6.80987<\X0>
 <X1>4.70701<\X1>
@@ -10607,7 +10607,7 @@
 <X98>4.29299<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="3" type="avgCross">
+<generate ID="avgCross3">
 <max>7.87019<\max>
 <X0>6.49714<\X0>
 <X1>2.19013<\X1>
@@ -10710,7 +10710,7 @@
 <X98>6.80657<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="4" type="avgCross">
+<generate ID="avgCross4">
 <max>7.87019<\max>
 <X0>2.19013<\X0>
 <X1>4.6724<\X1>
@@ -10813,7 +10813,7 @@
 <X98>4.33652<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="5" type="avgCross">
+<generate ID="avgCross5">
 <max>7.87019<\max>
 <X0>4.06488<\X0>
 <X1>1.12981<\X1>
@@ -10916,7 +10916,7 @@
 <X98>4.66348<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="6" type="avgCross">
+<generate ID="avgCross6">
 <max>7.87019<\max>
 <X0>4.66348<\X0>
 <X1>4.33652<\X1>
@@ -11019,7 +11019,7 @@
 <X98>4.30137<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="7" type="avgCross">
+<generate ID="avgCross7">
 <max>7.87019<\max>
 <X0>2.22968<\X0>
 <X1>4.06489<\X1>
@@ -11122,7 +11122,7 @@
 <X98>3.39532<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="8" type="avgCross">
+<generate ID="avgCross8">
 <max>7.87019<\max>
 <X0>4.97028<\X0>
 <X1>6.80973<\X1>
@@ -11225,7 +11225,7 @@
 <X98>4.97028<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="9" type="avgCross">
+<generate ID="avgCross9">
 <max>7.87019<\max>
 <X0>2.22968<\X0>
 <X1>7.09208<\X1>
@@ -11328,7 +11328,7 @@
 <X98>4.02864<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="10" type="avgCross">
+<generate ID="avgCross10">
 <max>7.87019<\max>
 <X0>6.77032<\X0>
 <X1>6.80973<\X1>
@@ -11431,7 +11431,7 @@
 <X98>2.19027<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="11" type="avgCross">
+<generate ID="avgCross11">
 <max>7.87019<\max>
 <X0>2.0517<\X0>
 <X1>2.19013<\X1>
@@ -11534,7 +11534,7 @@
 <X98>6.95915<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="12" type="avgCross">
+<generate ID="avgCross12">
 <max>7.87019<\max>
 <X0>6.9483<\X0>
 <X1>6.77032<\X1>
@@ -11637,7 +11637,7 @@
 <X98>2.19027<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="13" type="avgCross">
+<generate ID="avgCross13">
 <max>7.87019<\max>
 <X0>6.77032<\X0>
 <X1>2.0517<\X1>
@@ -11740,7 +11740,7 @@
 <X98>2.22968<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="14" type="avgCross">
+<generate ID="avgCross14">
 <max>7.86909<\max>
 <X0>6.93072<\X0>
 <X1>1.12981<\X1>
@@ -11843,7 +11843,7 @@
 <X98>6.77032<\X98>
 <X99>7.87019<\X99>
 <\generate>
-<generate ID="15" type="avgCross">
+<generate ID="avgCross15">
 <max>7.86909<\max>
 <X0>3.37019<\X0>
 <X1>6.55129<\X1>
@@ -11946,7 +11946,7 @@
 <X98>5.62981<\X98>
 <X99>7.86909<\X99>
 <\generate>
-<generate ID="16" type="avgCross">
+<generate ID="avgCross16">
 <max>7.86909<\max>
 <X0>1.12981<\X0>
 <X1>5.62981<\X1>
@@ -12049,7 +12049,7 @@
 <X98>1.12981<\X98>
 <X99>7.86909<\X99>
 <\generate>
-<generate ID="17" type="avgCross">
+<generate ID="avgCross17">
 <max>7.86909<\max>
 <X0>1.12981<\X0>
 <X1>3.37019<\X1>
@@ -12152,7 +12152,7 @@
 <X98>5.62981<\X98>
 <X99>7.86909<\X99>
 <\generate>
-<generate ID="18" type="avgCross">
+<generate ID="avgCross18">
 <max>7.86909<\max>
 <X0>6.77032<\X0>
 <X1>1.12981<\X1>
@@ -12255,7 +12255,7 @@
 <X98>7.87019<\X98>
 <X99>7.86909<\X99>
 <\generate>
-<generate ID="19" type="avgCross">
+<generate ID="avgCross19">
 <max>7.86798<\max>
 <X0>1.12983<\X0>
 <X1>1.12981<\X1>
@@ -12358,7 +12358,7 @@
 <X98>7.87458<\X98>
 <X99>7.86909<\X99>
 <\generate>
-<generate ID="20" type="avgCross">
+<generate ID="avgCross20">
 <max>7.85261<\max>
 <X0>2.22968<\X0>
 <X1>7.8704<\X1>
@@ -12461,7 +12461,7 @@
 <X98>1.1296<\X98>
 <X99>7.86798<\X99>
 <\generate>
-<generate ID="21" type="avgCross">
+<generate ID="avgCross21">
 <max>7.85282<\max>
 <X0>1.14959<\X0>
 <X1>7.85041<\X1>
@@ -12564,7 +12564,7 @@
 <X98>7.85062<\X98>
 <X99>7.85261<\X99>
 <\generate>
-<generate ID="22" type="avgCross">
+<generate ID="avgCross22">
 <max>7.85282<\max>
 <X0>1.43084<\X0>
 <X1>7.87017<\X1>
@@ -12667,7 +12667,7 @@
 <X98>1.13038<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="23" type="avgCross">
+<generate ID="avgCross23">
 <max>7.85282<\max>
 <X0>1.20067<\X0>
 <X1>7.03234<\X1>
@@ -12770,7 +12770,7 @@
 <X98>7.79933<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="24" type="avgCross">
+<generate ID="avgCross24">
 <max>7.85282<\max>
 <X0>7.51808<\X0>
 <X1>1.13264<\X1>
@@ -12873,7 +12873,7 @@
 <X98>1.48178<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="25" type="avgCross">
+<generate ID="avgCross25">
 <max>7.85282<\max>
 <X0>7.86736<\X0>
 <X1>1.48192<\X1>
@@ -12976,7 +12976,7 @@
 <X98>1.14253<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="26" type="avgCross">
+<generate ID="avgCross26">
 <max>7.85282<\max>
 <X0>1.13264<\X0>
 <X1>7.8704<\X1>
@@ -13079,7 +13079,7 @@
 <X98>1.1296<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="27" type="avgCross">
+<generate ID="avgCross27">
 <max>7.85289<\max>
 <X0>1.1296<\X0>
 <X1>1.1296<\X1>
@@ -13182,7 +13182,7 @@
 <X98>7.8704<\X98>
 <X99>7.85282<\X99>
 <\generate>
-<generate ID="28" type="avgCross">
+<generate ID="avgCross28">
 <max>7.85289<\max>
 <X0>1.13264<\X0>
 <X1>1.13264<\X1>
@@ -13285,7 +13285,7 @@
 <X98>1.48194<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="29" type="avgCross">
+<generate ID="avgCross29">
 <max>7.85289<\max>
 <X0>1.48194<\X0>
 <X1>3.3796<\X1>
@@ -13388,7 +13388,7 @@
 <X98>7.87046<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="30" type="avgCross">
+<generate ID="avgCross30">
 <max>7.85289<\max>
 <X0>1.1296<\X0>
 <X1>7.51806<\X1>
@@ -13491,7 +13491,7 @@
 <X98>1.1296<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="31" type="avgCross">
+<generate ID="avgCross31">
 <max>7.85289<\max>
 <X0>1.12947<\X0>
 <X1>1.13063<\X1>
@@ -13594,7 +13594,7 @@
 <X98>7.87047<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="32" type="avgCross">
+<generate ID="avgCross32">
 <max>7.85289<\max>
 <X0>7.51806<\X0>
 <X1>7.51806<\X1>
@@ -13697,7 +13697,7 @@
 <X98>1.1296<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="33" type="avgCross">
+<generate ID="avgCross33">
 <max>7.85289<\max>
 <X0>1.13063<\X0>
 <X1>1.13063<\X1>
@@ -13800,7 +13800,7 @@
 <X98>7.87046<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="34" type="avgCross">
+<generate ID="avgCross34">
 <max>7.85289<\max>
 <X0>7.79129<\X0>
 <X1>7.8704<\X1>
@@ -13903,7 +13903,7 @@
 <X98>1.19628<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="35" type="avgCross">
+<generate ID="avgCross35">
 <max>7.85289<\max>
 <X0>1.12624<\X0>
 <X1>1.48194<\X1>
@@ -14006,7 +14006,7 @@
 <X98>7.80263<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="36" type="avgCross">
+<generate ID="avgCross36">
 <max>7.85289<\max>
 <X0>7.51806<\X0>
 <X1>7.79129<\X1>
@@ -14109,7 +14109,7 @@
 <X98>3.38063<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="37" type="avgCross">
+<generate ID="avgCross37">
 <max>7.85289<\max>
 <X0>1.41163<\X0>
 <X1>7.87046<\X1>
@@ -14212,7 +14212,7 @@
 <X98>1.12954<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="38" type="avgCross">
+<generate ID="avgCross38">
 <max>7.85289<\max>
 <X0>1.12954<\X0>
 <X1>1.62256<\X1>
@@ -14315,7 +14315,7 @@
 <X98>1.41163<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="39" type="avgCross">
+<generate ID="avgCross39">
 <max>7.85289<\max>
 <X0>1.41163<\X0>
 <X1>1.20871<\X1>
@@ -14418,7 +14418,7 @@
 <X98>7.58837<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="40" type="avgCross">
+<generate ID="avgCross40">
 <max>7.85289<\max>
 <X0>7.55322<\X0>
 <X1>7.55322<\X1>
@@ -14521,7 +14521,7 @@
 <X98>1.44678<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="41" type="avgCross">
+<generate ID="avgCross41">
 <max>7.85289<\max>
 <X0>1.41163<\X0>
 <X1>1.44678<\X1>
@@ -14624,7 +14624,7 @@
 <X98>7.58837<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="42" type="avgCross">
+<generate ID="avgCross42">
 <max>7.85289<\max>
 <X0>5.33837<\X0>
 <X1>5.33837<\X1>
@@ -14727,7 +14727,7 @@
 <X98>3.66164<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="43" type="avgCross">
+<generate ID="avgCross43">
 <max>7.85289<\max>
 <X0>3.67921<\X0>
 <X1>1.41163<\X1>
@@ -14830,7 +14830,7 @@
 <X98>7.58837<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="44" type="avgCross">
+<generate ID="avgCross44">
 <max>7.85289<\max>
 <X0>7.55322<\X0>
 <X1>1.41163<\X1>
@@ -14933,7 +14933,7 @@
 <X98>3.67921<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="45" type="avgCross">
+<generate ID="avgCross45">
 <max>7.85289<\max>
 <X0>3.67925<\X0>
 <X1>1.41162<\X1>
@@ -15036,7 +15036,7 @@
 <X98>5.32075<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="46" type="avgCross">
+<generate ID="avgCross46">
 <max>7.85289<\max>
 <X0>7.51808<\X0>
 <X1>7.83447<\X1>
@@ -15139,7 +15139,7 @@
 <X98>1.16553<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="47" type="avgCross">
+<generate ID="avgCross47">
 <max>7.85289<\max>
 <X0>7.55322<\X0>
 <X1>1.41162<\X1>
@@ -15242,7 +15242,7 @@
 <X98>7.58838<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="48" type="avgCross">
+<generate ID="avgCross48">
 <max>7.85289<\max>
 <X0>1.41163<\X0>
 <X1>7.58837<\X1>
@@ -15345,7 +15345,7 @@
 <X98>1.16554<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="49" type="avgCross">
+<generate ID="avgCross49">
 <max>7.85289<\max>
 <X0>1.44897<\X0>
 <X1>1.41166<\X1>
@@ -15448,7 +15448,7 @@
 <X98>7.55117<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="50" type="avgCross">
+<generate ID="avgCross50">
 <max>7.85289<\max>
 <X0>7.58837<\X0>
 <X1>7.69398<\X1>
@@ -15551,7 +15551,7 @@
 <X98>3.66148<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="51" type="avgCross">
+<generate ID="avgCross51">
 <max>7.85289<\max>
 <X0>1.41121<\X0>
 <X1>1.41163<\X1>
@@ -15654,7 +15654,7 @@
 <X98>7.58851<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="52" type="avgCross">
+<generate ID="avgCross52">
 <max>7.85289<\max>
 <X0>7.58879<\X0>
 <X1>1.58946<\X1>
@@ -15757,7 +15757,7 @@
 <X98>1.41163<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="53" type="avgCross">
+<generate ID="avgCross53">
 <max>7.85289<\max>
 <X0>7.58879<\X0>
 <X1>1.41163<\X1>
@@ -15860,7 +15860,7 @@
 <X98>7.58769<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="54" type="avgCross">
+<generate ID="avgCross54">
 <max>7.85289<\max>
 <X0>7.58851<\X0>
 <X1>7.85289<\X1>
@@ -15963,7 +15963,7 @@
 <X98>7.58879<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="55" type="avgCross">
+<generate ID="avgCross55">
 <max>7.85289<\max>
 <X0>1.48153<\X0>
 <X1>5.91273<\X1>
@@ -16066,7 +16066,7 @@
 <X98>7.51805<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="56" type="avgCross">
+<generate ID="avgCross56">
 <max>7.85289<\max>
 <X0>3.07849<\X0>
 <X1>7.85289<\X1>
@@ -16169,7 +16169,7 @@
 <X98>1.48153<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="57" type="avgCross">
+<generate ID="avgCross57">
 <max>7.85289<\max>
 <X0>7.58837<\X0>
 <X1>5.98153<\X1>
@@ -16272,7 +16272,7 @@
 <X98>7.51847<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="58" type="avgCross">
+<generate ID="avgCross58">
 <max>7.85289<\max>
 <X0>1.41133<\X0>
 <X1>3.08837<\X1>
@@ -16375,7 +16375,7 @@
 <X98>7.58867<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="59" type="avgCross">
+<generate ID="avgCross59">
 <max>7.85289<\max>
 <X0>1.41133<\X0>
 <X1>2.93017<\X1>
@@ -16478,7 +16478,7 @@
 <X98>7.5888<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="60" type="avgCross">
+<generate ID="avgCross60">
 <max>7.85289<\max>
 <X0>2.12325<\X0>
 <X1>1.41133<\X1>
@@ -16581,7 +16581,7 @@
 <X98>0.286195<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="61" type="avgCross">
+<generate ID="avgCross61">
 <max>7.85289<\max>
 <X0>1.4112<\X0>
 <X1>2.12329<\X1>
@@ -16684,7 +16684,7 @@
 <X98>2.9472<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="62" type="avgCross">
+<generate ID="avgCross62">
 <max>7.85289<\max>
 <X0>2.94734<\X0>
 <X1>5.63045<\X1>
@@ -16787,7 +16787,7 @@
 <X98>2.12329<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="63" type="avgCross">
+<generate ID="avgCross63">
 <max>7.85289<\max>
 <X0>7.58647<\X0>
 <X1>2.12329<\X1>
@@ -16890,7 +16890,7 @@
 <X98>2.93566<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="64" type="avgCross">
+<generate ID="avgCross64">
 <max>7.85289<\max>
 <X0>2.94734<\X0>
 <X1>1.42232<\X1>
@@ -16993,7 +16993,7 @@
 <X98>6.05239<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="65" type="avgCross">
+<generate ID="avgCross65">
 <max>7.85893<\max>
 <X0>7.57768<\X0>
 <X1>7.58647<\X1>
@@ -17096,7 +17096,7 @@
 <X98>2.93855<\X98>
 <X99>7.85289<\X99>
 <\generate>
-<generate ID="66" type="avgCross">
+<generate ID="avgCross66">
 <max>7.85893<\max>
 <X0>3.22859<\X0>
 <X1>3.22859<\X1>
@@ -17199,7 +17199,7 @@
 <X98>5.77196<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="67" type="avgCross">
+<generate ID="avgCross67">
 <max>7.85893<\max>
 <X0>5.78899<\X0>
 <X1>5.77145<\X1>
@@ -17302,7 +17302,7 @@
 <X98>0.0248576<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="68" type="avgCross">
+<generate ID="avgCross68">
 <max>7.85893<\max>
 <X0>5.77141<\X0>
 <X1>5.77141<\X1>
@@ -17405,7 +17405,7 @@
 <X98>8.99272<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="69" type="avgCross">
+<generate ID="avgCross69">
 <max>7.85893<\max>
 <X0>5.77145<\X0>
 <X1>8.99272<\X1>
@@ -17508,7 +17508,7 @@
 <X98>0.28853<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="70" type="avgCross">
+<generate ID="avgCross70">
 <max>7.85893<\max>
 <X0>5.77141<\X0>
 <X1>5.76702<\X1>
@@ -17611,7 +17611,7 @@
 <X98>3.22859<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="71" type="avgCross">
+<generate ID="avgCross71">
 <max>7.85893<\max>
 <X0>5.77143<\X0>
 <X1>0.00837815<\X1>
@@ -17714,7 +17714,7 @@
 <X98>8.99162<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="72" type="avgCross">
+<generate ID="avgCross72">
 <max>7.85893<\max>
 <X0>5.77141<\X0>
 <X1>5.7802<\X1>
@@ -17817,7 +17817,7 @@
 <X98>8.02143<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="73" type="avgCross">
+<generate ID="avgCross73">
 <max>7.85893<\max>
 <X0>0.00837815<\X0>
 <X1>4.3448<\X1>
@@ -17920,7 +17920,7 @@
 <X98>4.6552<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="74" type="avgCross">
+<generate ID="avgCross74">
 <max>7.85893<\max>
 <X0>8.99162<\X0>
 <X1>5.77155<\X1>
@@ -18023,7 +18023,7 @@
 <X98>2.66609<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="75" type="avgCross">
+<generate ID="avgCross75">
 <max>7.85893<\max>
 <X0>2.6654<\X0>
 <X1>5.77155<\X1>
@@ -18126,7 +18126,7 @@
 <X98>3.22845<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="76" type="avgCross">
+<generate ID="avgCross76">
 <max>7.85893<\max>
 <X0>0.416052<\X0>
 <X1>8.99162<\X1>
@@ -18229,7 +18229,7 @@
 <X98>3.7801<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="77" type="avgCross">
+<generate ID="avgCross77">
 <max>7.85893<\max>
 <X0>0.00837815<\X0>
 <X1>0.00837869<\X1>
@@ -18332,7 +18332,7 @@
 <X98>5.2199<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="78" type="avgCross">
+<generate ID="avgCross78">
 <max>7.85893<\max>
 <X0>5.2199<\X0>
 <X1>5.2199<\X1>
@@ -18435,7 +18435,7 @@
 <X98>6.19288<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="79" type="avgCross">
+<generate ID="avgCross79">
 <max>7.85893<\max>
 <X0>6.19288<\X0>
 <X1>3.7801<\X1>
@@ -18538,7 +18538,7 @@
 <X98>5.22004<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="80" type="avgCross">
+<generate ID="avgCross80">
 <max>7.85893<\max>
 <X0>3.7801<\X0>
 <X1>5.2199<\X1>
@@ -18641,7 +18641,7 @@
 <X98>5.2199<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="81" type="avgCross">
+<generate ID="avgCross81">
 <max>7.85893<\max>
 <X0>3.70979<\X0>
 <X1>6.19404<\X1>
@@ -18744,7 +18744,7 @@
 <X98>2.80712<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="82" type="avgCross">
+<generate ID="avgCross82">
 <max>7.85893<\max>
 <X0>5.2199<\X0>
 <X1>2.80712<\X1>
@@ -18847,7 +18847,7 @@
 <X98>6.19405<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="83" type="avgCross">
+<generate ID="avgCross83">
 <max>7.85893<\max>
 <X0>7.53994<\X0>
 <X1>3.7801<\X1>
@@ -18950,7 +18950,7 @@
 <X98>5.2199<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="84" type="avgCross">
+<generate ID="avgCross84">
 <max>7.85893<\max>
 <X0>1.46006<\X0>
 <X1>6.20228<\X1>
@@ -19053,7 +19053,7 @@
 <X98>3.77955<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="85" type="avgCross">
+<generate ID="avgCross85">
 <max>7.85893<\max>
 <X0>2.6551<\X0>
 <X1>7.39931<\X1>
@@ -19156,7 +19156,7 @@
 <X98>3.77955<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="86" type="avgCross">
+<generate ID="avgCross86">
 <max>7.85893<\max>
 <X0>1.60069<\X0>
 <X1>5.2199<\X1>
@@ -19259,7 +19259,7 @@
 <X98>5.22052<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="87" type="avgCross">
+<generate ID="avgCross87">
 <max>7.85893<\max>
 <X0>5.22043<\X0>
 <X1>3.77955<\X1>
@@ -19362,7 +19362,7 @@
 <X98>2.79497<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="88" type="avgCross">
+<generate ID="avgCross88">
 <max>7.85893<\max>
 <X0>5.21605<\X0>
 <X1>6.34502<\X1>
@@ -19465,7 +19465,7 @@
 <X98>3.77955<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="89" type="avgCross">
+<generate ID="avgCross89">
 <max>7.85893<\max>
 <X0>5.22018<\X0>
 <X1>2.65498<\X1>
@@ -19568,7 +19568,7 @@
 <X98>5.21605<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="90" type="avgCross">
+<generate ID="avgCross90">
 <max>7.85893<\max>
 <X0>0.477335<\X0>
 <X1>6.34502<\X1>
@@ -19671,7 +19671,7 @@
 <X98>2.65498<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="91" type="avgCross">
+<generate ID="avgCross91">
 <max>7.85893<\max>
 <X0>2.65498<\X0>
 <X1>8.52267<\X1>
@@ -19774,7 +19774,7 @@
 <X98>0.477335<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="92" type="avgCross">
+<generate ID="avgCross92">
 <max>7.85893<\max>
 <X0>6.34502<\X0>
 <X1>5.21604<\X1>
@@ -19877,7 +19877,7 @@
 <X98>5.78252<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="93" type="avgCross">
+<generate ID="avgCross93">
 <max>7.85893<\max>
 <X0>2.65495<\X0>
 <X1>6.34502<\X1>
@@ -19980,7 +19980,7 @@
 <X98>6.34502<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="94" type="avgCross">
+<generate ID="avgCross94">
 <max>7.85893<\max>
 <X0>2.79557<\X0>
 <X1>7.85893<\X1>
@@ -20083,7 +20083,7 @@
 <X98>6.48568<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="95" type="avgCross">
+<generate ID="avgCross95">
 <max>7.85893<\max>
 <X0>7.11982<\X0>
 <X1>2.79557<\X1>
@@ -20186,7 +20186,7 @@
 <X98>6.34492<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="96" type="avgCross">
+<generate ID="avgCross96">
 <max>7.85893<\max>
 <X0>6.20443<\X0>
 <X1>5.78252<\X1>
@@ -20289,7 +20289,7 @@
 <X98>6.34509<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="97" type="avgCross">
+<generate ID="avgCross97">
 <max>7.85893<\max>
 <X0>3.21968<\X0>
 <X1>5.80017<\X1>
@@ -20392,7 +20392,7 @@
 <X98>5.78032<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="98" type="avgCross">
+<generate ID="avgCross98">
 <max>7.85783<\max>
 <X0>3.9205<\X0>
 <X1>3.92057<\X1>
@@ -20495,7 +20495,7 @@
 <X98>4.34262<\X98>
 <X99>7.85893<\X99>
 <\generate>
-<generate ID="99" type="avgCross">
+<generate ID="avgCross99">
 <max>7.85783<\max>
 <X0>3.21748<\X0>
 <X1>0.579498<\X1>
@@ -20598,7 +20598,7 @@
 <X98>4.32483<\X98>
 <X99>7.85783<\X99>
 <\generate>
-<generate ID="0" type="arithmeticCross">
+<generate ID="arithmeticCross0">
 <max>7.85934<\max>
 <X0>7.04372<\X0>
 <X1>7.85934<\X1>
@@ -20701,7 +20701,7 @@
 <X98>3.59064<\X98>
 <X99>5.55694<\X99>
 <\generate>
-<generate ID="1" type="arithmeticCross">
+<generate ID="arithmeticCross1">
 <max>7.85934<\max>
 <X0>8.11319<\X0>
 <X1>5.0028<\X1>
@@ -20804,7 +20804,7 @@
 <X98>1.98464<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="2" type="arithmeticCross">
+<generate ID="arithmeticCross2">
 <max>7.85934<\max>
 <X0>8.11319<\X0>
 <X1>3.44291<\X1>
@@ -20907,7 +20907,7 @@
 <X98>8.11319<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="3" type="arithmeticCross">
+<generate ID="arithmeticCross3">
 <max>7.85934<\max>
 <X0>7.78997<\X0>
 <X1>6.85036<\X1>
@@ -21010,7 +21010,7 @@
 <X98>6.85036<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="4" type="arithmeticCross">
+<generate ID="arithmeticCross4">
 <max>7.85934<\max>
 <X0>6.85036<\X0>
 <X1>4.67542<\X1>
@@ -21113,7 +21113,7 @@
 <X98>4.67542<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="5" type="arithmeticCross">
+<generate ID="arithmeticCross5">
 <max>7.85934<\max>
 <X0>4.67542<\X0>
 <X1>6.85036<\X1>
@@ -21216,7 +21216,7 @@
 <X98>6.85036<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="6" type="arithmeticCross">
+<generate ID="arithmeticCross6">
 <max>7.85934<\max>
 <X0>8.11319<\X0>
 <X1>4.67542<\X1>
@@ -21319,7 +21319,7 @@
 <X98>4.67542<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="7" type="arithmeticCross">
+<generate ID="arithmeticCross7">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>6.85036<\X1>
@@ -21422,7 +21422,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="8" type="arithmeticCross">
+<generate ID="arithmeticCross8">
 <max>7.85934<\max>
 <X0>4.67542<\X0>
 <X1>7.85934<\X1>
@@ -21525,7 +21525,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="9" type="arithmeticCross">
+<generate ID="arithmeticCross9">
 <max>7.85934<\max>
 <X0>4.67542<\X0>
 <X1>4.67542<\X1>
@@ -21628,7 +21628,7 @@
 <X98>6.85036<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="10" type="arithmeticCross">
+<generate ID="arithmeticCross10">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>4.67542<\X1>
@@ -21731,7 +21731,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="11" type="arithmeticCross">
+<generate ID="arithmeticCross11">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -21834,7 +21834,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="12" type="arithmeticCross">
+<generate ID="arithmeticCross12">
 <max>7.85934<\max>
 <X0>6.85036<\X0>
 <X1>7.85934<\X1>
@@ -21937,7 +21937,7 @@
 <X98>6.85036<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="13" type="arithmeticCross">
+<generate ID="arithmeticCross13">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22040,7 +22040,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="14" type="arithmeticCross">
+<generate ID="arithmeticCross14">
 <max>7.85934<\max>
 <X0>6.85036<\X0>
 <X1>7.85934<\X1>
@@ -22143,7 +22143,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="15" type="arithmeticCross">
+<generate ID="arithmeticCross15">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22246,7 +22246,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="16" type="arithmeticCross">
+<generate ID="arithmeticCross16">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22349,7 +22349,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="17" type="arithmeticCross">
+<generate ID="arithmeticCross17">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22452,7 +22452,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="18" type="arithmeticCross">
+<generate ID="arithmeticCross18">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22555,7 +22555,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="19" type="arithmeticCross">
+<generate ID="arithmeticCross19">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22658,7 +22658,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="20" type="arithmeticCross">
+<generate ID="arithmeticCross20">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22761,7 +22761,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="21" type="arithmeticCross">
+<generate ID="arithmeticCross21">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22864,7 +22864,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="22" type="arithmeticCross">
+<generate ID="arithmeticCross22">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -22967,7 +22967,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="23" type="arithmeticCross">
+<generate ID="arithmeticCross23">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23070,7 +23070,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="24" type="arithmeticCross">
+<generate ID="arithmeticCross24">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23173,7 +23173,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="25" type="arithmeticCross">
+<generate ID="arithmeticCross25">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23276,7 +23276,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="26" type="arithmeticCross">
+<generate ID="arithmeticCross26">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23379,7 +23379,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="27" type="arithmeticCross">
+<generate ID="arithmeticCross27">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23482,7 +23482,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="28" type="arithmeticCross">
+<generate ID="arithmeticCross28">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23585,7 +23585,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="29" type="arithmeticCross">
+<generate ID="arithmeticCross29">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23688,7 +23688,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="30" type="arithmeticCross">
+<generate ID="arithmeticCross30">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23791,7 +23791,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="31" type="arithmeticCross">
+<generate ID="arithmeticCross31">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23894,7 +23894,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="32" type="arithmeticCross">
+<generate ID="arithmeticCross32">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -23997,7 +23997,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="33" type="arithmeticCross">
+<generate ID="arithmeticCross33">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24100,7 +24100,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="34" type="arithmeticCross">
+<generate ID="arithmeticCross34">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24203,7 +24203,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="35" type="arithmeticCross">
+<generate ID="arithmeticCross35">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24306,7 +24306,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="36" type="arithmeticCross">
+<generate ID="arithmeticCross36">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24409,7 +24409,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="37" type="arithmeticCross">
+<generate ID="arithmeticCross37">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24512,7 +24512,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="38" type="arithmeticCross">
+<generate ID="arithmeticCross38">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24615,7 +24615,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="39" type="arithmeticCross">
+<generate ID="arithmeticCross39">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24718,7 +24718,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="40" type="arithmeticCross">
+<generate ID="arithmeticCross40">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24821,7 +24821,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="41" type="arithmeticCross">
+<generate ID="arithmeticCross41">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -24924,7 +24924,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="42" type="arithmeticCross">
+<generate ID="arithmeticCross42">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25027,7 +25027,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="43" type="arithmeticCross">
+<generate ID="arithmeticCross43">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25130,7 +25130,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="44" type="arithmeticCross">
+<generate ID="arithmeticCross44">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25233,7 +25233,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="45" type="arithmeticCross">
+<generate ID="arithmeticCross45">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25336,7 +25336,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="46" type="arithmeticCross">
+<generate ID="arithmeticCross46">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25439,7 +25439,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="47" type="arithmeticCross">
+<generate ID="arithmeticCross47">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25542,7 +25542,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="48" type="arithmeticCross">
+<generate ID="arithmeticCross48">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25645,7 +25645,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="49" type="arithmeticCross">
+<generate ID="arithmeticCross49">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25748,7 +25748,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="50" type="arithmeticCross">
+<generate ID="arithmeticCross50">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25851,7 +25851,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="51" type="arithmeticCross">
+<generate ID="arithmeticCross51">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -25954,7 +25954,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="52" type="arithmeticCross">
+<generate ID="arithmeticCross52">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26057,7 +26057,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="53" type="arithmeticCross">
+<generate ID="arithmeticCross53">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26160,7 +26160,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="54" type="arithmeticCross">
+<generate ID="arithmeticCross54">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26263,7 +26263,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="55" type="arithmeticCross">
+<generate ID="arithmeticCross55">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26366,7 +26366,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="56" type="arithmeticCross">
+<generate ID="arithmeticCross56">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26469,7 +26469,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="57" type="arithmeticCross">
+<generate ID="arithmeticCross57">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26572,7 +26572,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="58" type="arithmeticCross">
+<generate ID="arithmeticCross58">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26675,7 +26675,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="59" type="arithmeticCross">
+<generate ID="arithmeticCross59">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26778,7 +26778,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="60" type="arithmeticCross">
+<generate ID="arithmeticCross60">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26881,7 +26881,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="61" type="arithmeticCross">
+<generate ID="arithmeticCross61">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -26984,7 +26984,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="62" type="arithmeticCross">
+<generate ID="arithmeticCross62">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27087,7 +27087,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="63" type="arithmeticCross">
+<generate ID="arithmeticCross63">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27190,7 +27190,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="64" type="arithmeticCross">
+<generate ID="arithmeticCross64">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27293,7 +27293,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="65" type="arithmeticCross">
+<generate ID="arithmeticCross65">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27396,7 +27396,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="66" type="arithmeticCross">
+<generate ID="arithmeticCross66">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27499,7 +27499,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="67" type="arithmeticCross">
+<generate ID="arithmeticCross67">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27602,7 +27602,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="68" type="arithmeticCross">
+<generate ID="arithmeticCross68">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27705,7 +27705,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="69" type="arithmeticCross">
+<generate ID="arithmeticCross69">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27808,7 +27808,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="70" type="arithmeticCross">
+<generate ID="arithmeticCross70">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -27911,7 +27911,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="71" type="arithmeticCross">
+<generate ID="arithmeticCross71">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28014,7 +28014,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="72" type="arithmeticCross">
+<generate ID="arithmeticCross72">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28117,7 +28117,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="73" type="arithmeticCross">
+<generate ID="arithmeticCross73">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28220,7 +28220,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="74" type="arithmeticCross">
+<generate ID="arithmeticCross74">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28323,7 +28323,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="75" type="arithmeticCross">
+<generate ID="arithmeticCross75">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28426,7 +28426,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="76" type="arithmeticCross">
+<generate ID="arithmeticCross76">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28529,7 +28529,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="77" type="arithmeticCross">
+<generate ID="arithmeticCross77">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28632,7 +28632,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="78" type="arithmeticCross">
+<generate ID="arithmeticCross78">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28735,7 +28735,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="79" type="arithmeticCross">
+<generate ID="arithmeticCross79">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28838,7 +28838,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="80" type="arithmeticCross">
+<generate ID="arithmeticCross80">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -28941,7 +28941,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="81" type="arithmeticCross">
+<generate ID="arithmeticCross81">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29044,7 +29044,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="82" type="arithmeticCross">
+<generate ID="arithmeticCross82">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29147,7 +29147,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="83" type="arithmeticCross">
+<generate ID="arithmeticCross83">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29250,7 +29250,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="84" type="arithmeticCross">
+<generate ID="arithmeticCross84">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29353,7 +29353,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="85" type="arithmeticCross">
+<generate ID="arithmeticCross85">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29456,7 +29456,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="86" type="arithmeticCross">
+<generate ID="arithmeticCross86">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29559,7 +29559,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="87" type="arithmeticCross">
+<generate ID="arithmeticCross87">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29662,7 +29662,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="88" type="arithmeticCross">
+<generate ID="arithmeticCross88">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29765,7 +29765,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="89" type="arithmeticCross">
+<generate ID="arithmeticCross89">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29868,7 +29868,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="90" type="arithmeticCross">
+<generate ID="arithmeticCross90">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -29971,7 +29971,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="91" type="arithmeticCross">
+<generate ID="arithmeticCross91">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30074,7 +30074,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="92" type="arithmeticCross">
+<generate ID="arithmeticCross92">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30177,7 +30177,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="93" type="arithmeticCross">
+<generate ID="arithmeticCross93">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30280,7 +30280,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="94" type="arithmeticCross">
+<generate ID="arithmeticCross94">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30383,7 +30383,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="95" type="arithmeticCross">
+<generate ID="arithmeticCross95">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30486,7 +30486,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="96" type="arithmeticCross">
+<generate ID="arithmeticCross96">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30589,7 +30589,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="97" type="arithmeticCross">
+<generate ID="arithmeticCross97">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30692,7 +30692,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="98" type="arithmeticCross">
+<generate ID="arithmeticCross98">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
@@ -30795,7 +30795,7 @@
 <X98>7.85934<\X98>
 <X99>7.85934<\X99>
 <\generate>
-<generate ID="99" type="arithmeticCross">
+<generate ID="arithmeticCross99">
 <max>7.85934<\max>
 <X0>7.85934<\X0>
 <X1>7.85934<\X1>
